@@ -1,0 +1,15 @@
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\bin\Debug\net6.0\Builder.exe
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\bin\Debug\net6.0\Builder.deps.json
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\bin\Debug\net6.0\Builder.dll
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\bin\Debug\net6.0\Builder.pdb
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.dll
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\refint\Builder.dll
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.pdb
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+D:\Documents\STEP IT\Homework\UML Patterns\Builder\Builder\obj\Debug\net6.0\ref\Builder.dll
